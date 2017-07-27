@@ -1,0 +1,22 @@
+#google_translate_element select {
+  background: rgba(255,255,255,0.8);
+  border: none;
+  font-size: 16px;
+  height: 4%;
+  margin-left:10%;
+  outline: 0;
+  
+  width: 80%;
+  background-color: #e8eeef;
+  color: black;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+}
+
+.goog-logo-link {
+   display:none;
+} 
+
+.goog-te-gadget{
+   color: transparent !important;
+}
